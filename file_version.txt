@@ -26,7 +26,7 @@ StringFileInfo(
   StringTable(
     u'040904B0',
     [StringStruct(u'CompanyName', u'Shin-kun'),
-    StringStruct(u'FileDescription', u'Pdf Cleaner'),
+    StringStruct(u'FileDescription', u'Nitro Generator'),
     StringStruct(u'FileVersion', u'1.9.7'),
     StringStruct(u'InternalName', u'Cezzie-kun'),
     StringStruct(u'LegalCopyright', u'Copyright (c) The Cezzie-kun Software Foundation'),
